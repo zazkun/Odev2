@@ -1,0 +1,25 @@
+a{
+    display:block;
+    font-size: 30px;
+    color: red;
+
+}
+.a5{
+    text-decoration: none;
+}
+a:hover.a1{
+    color: green;
+
+}
+a:hover.a2{
+    font-size: 50px;
+}
+a:hover.a3{
+    background-color: blueviolet;
+}
+a:hover.a4{
+    font-family: 'Courier New', Courier, monospace;
+}
+a:hover.a5{
+    text-decoration: underline;
+}
